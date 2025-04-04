@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "randomutils"
+version = "0.1.0"
+description = "Egyszerű csomag véletlenszerű jelszavak és adatok generálására"
+authors = [
+  { name="A Te Neved", email="te@email.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent"
+]
+dependencies = []
+
+[tool.setuptools]
+packages = ["randomutils"]
