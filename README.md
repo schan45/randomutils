@@ -51,7 +51,8 @@ A `randomutils_demo.ipynb` fájlban (az `examples/` mappában) bemutatjuk az ös
 
 ## 📚 Dokumentáció
 
-🔗 [Dokumentáció – ReadTheDocs](https://randomutils.readthedocs.io/en/latest/) *(ha készen van)*
+A projekt teljes dokumentációja elérhető itt:  
+🔗 [https://randomutils.readthedocs.io/en/latest/](https://randomutils.readthedocs.io/en/latest/)
 
 ---
 
